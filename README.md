@@ -1,3 +1,7 @@
+# Live Demo
+
+This project is hosted with [GitHub Pages](https://hoovks.github.io/windbnb-master).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
