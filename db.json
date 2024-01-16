@@ -1,0 +1,283 @@
+{
+  "apartmentsSearch": [
+    { "id": 1, "city": "Helsinki", "country": "Finland" },
+    { "id": 2, "city": "Turku", "country": "Finland" },
+    { "id": 3, "city": "Oulu", "country": "Finland" },
+    { "id": 4, "city": "Vaasa", "country": "Finland" }
+  ],
+  "apartments": [
+    {
+      "id": 1,
+      "img": "./images/interiors/interior_1.jpg",
+      "superHost": true,
+      "type": "Entire apartment . 2 beds",
+      "rate": 4.4,
+      "name": "Stylist apartment in center of the city",
+      "city": "Helsinki",
+      "country": "Finland"
+    },
+    {
+      "id": 2,
+      "img": "./images/interiors/interior_1.jpg",
+      "superHost": false,
+      "type": "Private room",
+      "rate": 4.25,
+      "name": "Cozy, peaceful and private room with...",
+      "city": "Helsinki",
+      "country": "Finland"
+    },
+    {
+      "id": 3,
+      "img": "./images/interiors/interior_3.jpg",
+      "superHost": true,
+      "type": "Entire house",
+      "rate": 4.96,
+      "name": "Mordern House in a remote area",
+      "city": "Oulu",
+      "country": "Finland"
+    },
+    {
+      "id": 4,
+      "img": "./images/interiors/interior_2.jpg",
+      "superHost": true,
+      "type": "Private room",
+      "rate": 4.3,
+      "name": "Stylist room in design district ",
+      "city": "Turku",
+      "country": "Finland"
+    },
+    {
+      "id": 5,
+      "img": "./images/interiors/interior_2.jpg",
+      "superHost": false,
+      "type": "Entire apartment . 2 beds",
+      "rate": 4.54,
+      "name": "Modern apartment close to nature",
+      "city": "Turku",
+
+      "country": "Finland"
+    },
+    {
+      "id": 6,
+      "img": "./images/interiors/interior_4.jpg",
+      "superHost": false,
+      "type": "Entire house",
+      "rate": 4.66,
+      "name": "House in a remote area",
+      "city": "Vaasa",
+      "country": "Finland"
+    },
+    {
+      "id": 7,
+      "img": "./images/interiors/interior_2.jpg",
+      "superHost": false,
+      "type": "Entire apartment . 2 beds",
+      "rate": 4.54,
+      "name": "Modern apartment close to nature",
+      "city": "Turku",
+
+      "country": "Finland"
+    },
+    {
+      "id": 8,
+      "img": "./images/interiors/interior_2.jpg",
+      "superHost": false,
+      "type": "Entire apartment . 2 beds",
+      "rate": 4.54,
+      "name": "Modern apartment close to nature",
+      "city": "Turku",
+
+      "country": "Finland"
+    },
+    {
+      "id": 9,
+      "img": "./images/interiors/interior_4.jpg",
+      "superHost": false,
+      "type": "Entire house",
+      "rate": 4.66,
+      "name": "House in a remote area",
+      "city": "Vaasa",
+      "country": "Finland"
+    },
+    {
+      "id": 10,
+      "img": "./images/interiors/interior_4.jpg",
+      "superHost": false,
+      "type": "Entire house",
+      "rate": 4.66,
+      "name": "House in a remote area",
+      "city": "Vaasa",
+      "country": "Finland"
+    },
+    {
+      "id": 11,
+      "img": "./images/interiors/interior_4.jpg",
+      "superHost": false,
+      "type": "Entire house",
+      "rate": 4.66,
+      "name": "House in a remote area",
+      "city": "Vaasa",
+      "country": "Finland"
+    },
+    {
+      "id": 12,
+      "img": "./images/interiors/interior_4.jpg",
+      "superHost": false,
+      "type": "Entire house",
+      "rate": 4.66,
+      "name": "House in a remote area",
+      "city": "Vaasa",
+      "country": "Finland"
+    },
+    {
+      "id": 13,
+      "img": "./images/interiors/interior_4.jpg",
+      "superHost": false,
+      "type": "Entire house",
+      "rate": 4.66,
+      "name": "House in a remote area",
+      "city": "Vaasa",
+      "country": "Finland"
+    },
+    {
+      "id": 14,
+      "img": "./images/interiors/interior_4.jpg",
+      "superHost": false,
+      "type": "Entire house",
+      "rate": 4.66,
+      "name": "House in a remote area",
+      "city": "Vaasa",
+      "country": "Finland"
+    },
+    {
+      "id": 15,
+      "img": "./images/interiors/interior_4.jpg",
+      "superHost": false,
+      "type": "Entire house",
+      "rate": 4.66,
+      "name": "House in a remote area",
+      "city": "Vaasa",
+      "country": "Finland"
+    },
+    {
+      "id": 16,
+      "img": "./images/interiors/interior_4.jpg",
+      "superHost": false,
+      "type": "Entire house",
+      "rate": 4.66,
+      "name": "House in a remote area",
+      "city": "Vaasa",
+      "country": "Finland"
+    },
+    {
+      "id": 17,
+      "img": "./images/interiors/interior_4.jpg",
+      "superHost": false,
+      "type": "Entire house",
+      "rate": 4.66,
+      "name": "House in a remote area",
+      "city": "Vaasa",
+      "country": "Finland"
+    },
+    {
+      "id": 18,
+      "img": "./images/interiors/interior_4.jpg",
+      "superHost": false,
+      "type": "Entire house",
+      "rate": 4.66,
+      "name": "House in a remote area",
+      "city": "Vaasa",
+      "country": "Finland"
+    },
+    {
+      "id": 19,
+      "img": "./images/interiors/interior_4.jpg",
+      "superHost": false,
+      "type": "Entire house",
+      "rate": 4.66,
+      "name": "House in a remote area",
+      "city": "Vaasa",
+      "country": "Finland"
+    },
+    {
+      "id": 20,
+      "img": "./images/interiors/interior_4.jpg",
+      "superHost": false,
+      "type": "Entire house",
+      "rate": 4.66,
+      "name": "House in a remote area",
+      "city": "Vaasa",
+      "country": "Finland"
+    },
+    {
+      "id": 21,
+      "img": "./images/interiors/interior_4.jpg",
+      "superHost": false,
+      "type": "Entire house",
+      "rate": 4.66,
+      "name": "House in a remote area",
+      "city": "Vaasa",
+      "country": "Finland"
+    },
+    {
+      "id": 22,
+      "img": "./images/interiors/interior_4.jpg",
+      "superHost": false,
+      "type": "Entire house",
+      "rate": 4.66,
+      "name": "House in a remote area",
+      "city": "Vaasa",
+      "country": "Finland"
+    },
+    {
+      "id": 23,
+      "img": "./images/interiors/interior_4.jpg",
+      "superHost": false,
+      "type": "Entire house",
+      "rate": 4.66,
+      "name": "House in a remote area",
+      "city": "Vaasa",
+      "country": "Finland"
+    },
+    {
+      "id": 24,
+      "img": "./images/interiors/interior_4.jpg",
+      "superHost": false,
+      "type": "Entire house",
+      "rate": 4.66,
+      "name": "House in a remote area",
+      "city": "Vaasa",
+      "country": "Finland"
+    },
+    {
+      "id": 25,
+      "img": "./images/interiors/interior_4.jpg",
+      "superHost": false,
+      "type": "Entire house",
+      "rate": 4.66,
+      "name": "House in a remote area",
+      "city": "Vaasa",
+      "country": "Finland"
+    },
+    {
+      "id": 26,
+      "img": "./images/interiors/interior_4.jpg",
+      "superHost": false,
+      "type": "Entire house",
+      "rate": 4.66,
+      "name": "House in a remote area",
+      "city": "Vaasa",
+      "country": "Finland"
+    },
+    {
+      "id": 27,
+      "img": "./images/interiors/interior_4.jpg",
+      "superHost": false,
+      "type": "Entire house",
+      "rate": 4.66,
+      "name": "Last of us",
+      "city": "Vaasa",
+      "country": "Finland"
+    }
+  ]
+}
