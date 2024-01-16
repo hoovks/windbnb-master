@@ -29,10 +29,11 @@ export const FilterDrawer = ({
   }, []);
 
   const getAllLocations = async () => {
-    const res = await fetch(`http://localhost:3003/apartmentsSearch`);
-    const data = await res.json();
-    setLocations(data);
-    allLocationsRef.current = data;
+    const res = await fetch(`https://hoovks.github.io/windbnb-master/db.json`);
+
+    const { apartmentsSearch } = await res.json();
+    setLocations(apartmentsSearch);
+    allLocationsRef.current = apartmentsSearch;
   };
 
   const handleSearch = (e) => {
@@ -52,12 +53,13 @@ export const FilterDrawer = ({
   };
 
   const getSearchedLocation = async () => {
-    const res = await fetch(
-      `http://localhost:3003/apartments?city=${selectedLocationRef.current}`
-    );
+    const res = await fetch(`https://hoovks.github.io/windbnb-master/db.json`);
     const data = await res.json();
-
-    setApartments(data);
+    setApartments(
+      data.apartments.filter(
+        (apartment) => apartment.city === selectedLocationRef.current
+      )
+    );
   };
 
   const showResults = () => {

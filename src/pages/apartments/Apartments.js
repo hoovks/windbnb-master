@@ -17,18 +17,19 @@ export const Apartments = () => {
   }, []);
 
   const getApartments = async () => {
-    const res = await fetch(
-      `http://localhost:3003/apartments?_page=1&_limit=9`
-    );
-    const data = await res.json();
-    setApartments(data);
+    const res = await fetch(`https://hoovks.github.io/windbnb-master/db.json`);
+    const { apartments } = await res.json();
+    setApartments(apartments);
+    {
+      apartments.map((apartment) => console.log(apartment.img));
+    }
   };
 
   const fetchApartments = async () => {
-    const res = await fetch(
-      `http://localhost:3003/apartments?_page=${page}&_limit=9`
+    const { apartments } = await fetch(
+      `https://hoovks.github.io/windbnb-master/db.json`
     );
-    return res.json();
+    return apartments.json();
   };
 
   const fetchData = async () => {

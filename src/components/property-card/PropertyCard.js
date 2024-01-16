@@ -12,6 +12,7 @@ export const PropertyCard = ({ image, superHost, type, rate, name }) => {
   return (
     <StyledPropertyCard>
       <Img image={image} />
+
       <FlexRow>
         {superHost && (
           <SuperHost>

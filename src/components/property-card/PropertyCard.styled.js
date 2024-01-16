@@ -12,7 +12,8 @@ export const SuperHost = styled.div`
 `;
 
 export const Img = styled.div`
-  background-image: ${(props) => `url("${props.image}")`};
+  background-image: ${(props) =>
+    `url("${require("../../assets/images/interiors/" + props.image)}")`};
   background-repeat: no-repeat;
   background-size: cover;
   border-radius: 24px;
