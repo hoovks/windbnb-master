@@ -1,12 +1,22 @@
 {
   "files": {
     "main.css": "/windbnb-master/static/css/main.d04d34ca.css",
-    "main.js": "/windbnb-master/static/js/main.137cdd5a.js",
+    "main.js": "/windbnb-master/static/js/main.78b6140f.js",
+    "static/media/interior_3.jpg": "/windbnb-master/static/media/interior_3.6b4a7152e77607108093.jpg",
+    "static/media/interior.jpeg": "/windbnb-master/static/media/interior.b87488b008570db7fe46.jpeg",
+    "static/media/interior_4.jpg": "/windbnb-master/static/media/interior_4.a68c2a52e5e583a62486.jpg",
+    "static/media/interior_5.jpg": "/windbnb-master/static/media/interior_5.4b985ef66763c0206c53.jpg",
+    "static/media/interior_2.jpg": "/windbnb-master/static/media/interior_2.3abe4bff4bb11af3235c.jpg",
+    "static/media/interior_6.jpg": "/windbnb-master/static/media/interior_6.134abd3c2c07e3869c66.jpg",
+    "static/media/interior_1.jpg": "/windbnb-master/static/media/interior_1.5e34fdd6c3312b3ebe48.jpg",
+    "static/media/interior_8.jpg": "/windbnb-master/static/media/interior_8.5e34fdd6c3312b3ebe48.jpg",
+    "static/media/interior_7.jpg": "/windbnb-master/static/media/interior_7.b8ea72243a88210561be.jpg",
+    "static/media/interior_9.jpg": "/windbnb-master/static/media/interior_9.b8ea72243a88210561be.jpg",
     "index.html": "/windbnb-master/index.html",
-    "main.137cdd5a.js.map": "/windbnb-master/static/js/main.137cdd5a.js.map"
+    "main.78b6140f.js.map": "/windbnb-master/static/js/main.78b6140f.js.map"
   },
   "entrypoints": [
     "static/css/main.d04d34ca.css",
-    "static/js/main.137cdd5a.js"
+    "static/js/main.78b6140f.js"
   ]
 }
